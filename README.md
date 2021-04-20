@@ -13,6 +13,8 @@ Examples from instructions
 
 [Query 1](https://github.com/ianfore/cdatest/blob/main/Examples%20frominstructions-Query1.ipynb) - Query TCGA study by age and diagnosis.
 
+[Query 2](https://github.com/ianfore/cdatest/blob/main/Query2.ipynb) - Searching for subjects with genomic and proteomic data.
+
 [Stage examples](https://github.com/ianfore/cdatest/blob/main/Stage%20examples.ipynb) - SQL explorations of unique terms across projects.
 
 

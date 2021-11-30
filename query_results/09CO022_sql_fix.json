@@ -34,7 +34,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 248056,
+                        "byte_size": "248056",
                         "type": null,
                         "file_format": null,
                         "checksum": "e09e988c4969cf68fac8168fa622df9f",
@@ -54,7 +54,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 1611219,
+                        "byte_size": "1611219",
                         "type": null,
                         "file_format": null,
                         "checksum": "5eab6ca0fbbb67a3204e55266161dc55",
@@ -74,7 +74,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 7547974,
+                        "byte_size": "7547974",
                         "type": null,
                         "file_format": null,
                         "checksum": "2ab8ea64673f22be2fc3ae40ce3356eb",
@@ -94,7 +94,7 @@
                            }
                         ],
                         "data_category": "Transcriptome Profiling",
-                        "byte_size": 2472314,
+                        "byte_size": "2472314",
                         "type": null,
                         "file_format": null,
                         "checksum": "f81e25701c17eab29bdee4223c82cc56",
@@ -114,7 +114,7 @@
                            }
                         ],
                         "data_category": "Sequencing Reads",
-                        "byte_size": 4414014860,
+                        "byte_size": "4414014860",
                         "type": null,
                         "file_format": null,
                         "checksum": "46f5800fb243249938ddf09fc95ed416",
@@ -134,7 +134,7 @@
                            }
                         ],
                         "data_category": "Transcriptome Profiling",
-                        "byte_size": 238654,
+                        "byte_size": "238654",
                         "type": null,
                         "file_format": null,
                         "checksum": "a15b1b8c641407a9c8fa3756fc86d7c6",
@@ -154,7 +154,7 @@
                            }
                         ],
                         "data_category": "Transcriptome Profiling",
-                        "byte_size": 49839,
+                        "byte_size": "49839",
                         "type": null,
                         "file_format": null,
                         "checksum": "3540412c79caa600aef56f928fed04aa",
@@ -174,7 +174,7 @@
                            }
                         ],
                         "data_category": "Sequencing Reads",
-                        "byte_size": 265126753,
+                        "byte_size": "265126753",
                         "type": null,
                         "file_format": null,
                         "checksum": "14982035c8909b3747d03a23924c5af0",
@@ -194,7 +194,7 @@
                            }
                         ],
                         "data_category": "Transcriptome Profiling",
-                        "byte_size": 369648,
+                        "byte_size": "369648",
                         "type": null,
                         "file_format": null,
                         "checksum": "38e816e53699daac1474a27681ee315c",
@@ -214,7 +214,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 163494,
+                        "byte_size": "163494",
                         "type": null,
                         "file_format": null,
                         "checksum": "fabcd676c20684a8df20be63e49756a4",
@@ -234,7 +234,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 43887,
+                        "byte_size": "43887",
                         "type": null,
                         "file_format": null,
                         "checksum": "cc174a5c968bd1dfc464c22fb1244f2b",
@@ -254,7 +254,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 5005951,
+                        "byte_size": "5005951",
                         "type": null,
                         "file_format": null,
                         "checksum": "f1582d896290ad6c93f4ee97195fb5a9",
@@ -274,7 +274,7 @@
                            }
                         ],
                         "data_category": "Transcriptome Profiling",
-                        "byte_size": 425670,
+                        "byte_size": "425670",
                         "type": null,
                         "file_format": null,
                         "checksum": "3d57646194512126325c59177b8e537b",
@@ -294,7 +294,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 115646,
+                        "byte_size": "115646",
                         "type": null,
                         "file_format": null,
                         "checksum": "0dd012d2a55bedca6921fad581fbbd27",
@@ -314,7 +314,7 @@
                            }
                         ],
                         "data_category": "Sequencing Reads",
-                        "byte_size": 59654562246,
+                        "byte_size": "59654562246",
                         "type": null,
                         "file_format": null,
                         "checksum": "6e2a2dbfef2574f49c261d1e567316b3",
@@ -334,7 +334,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 342713,
+                        "byte_size": "342713",
                         "type": null,
                         "file_format": null,
                         "checksum": "35d6d356b65c552962845a5f963db28a",
@@ -354,7 +354,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 50325,
+                        "byte_size": "50325",
                         "type": null,
                         "file_format": null,
                         "checksum": "5dab4cb237c6bdf9f26938510d9f6442",
@@ -374,7 +374,7 @@
                            }
                         ],
                         "data_category": "Transcriptome Profiling",
-                        "byte_size": 371625,
+                        "byte_size": "371625",
                         "type": null,
                         "file_format": null,
                         "checksum": "7a0a86367f6f1129851e2d9152813c8c",
@@ -394,7 +394,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 53313,
+                        "byte_size": "53313",
                         "type": null,
                         "file_format": null,
                         "checksum": "dc22add6654662c05c787407c20b4578",
@@ -414,7 +414,7 @@
                            }
                         ],
                         "data_category": "Transcriptome Profiling",
-                        "byte_size": 295185,
+                        "byte_size": "295185",
                         "type": null,
                         "file_format": null,
                         "checksum": "a641a766218e0b4be0ffe05aa3229ac2",
@@ -434,7 +434,7 @@
                            }
                         ],
                         "data_category": "Sequencing Reads",
-                        "byte_size": 7602867805,
+                        "byte_size": "7602867805",
                         "type": null,
                         "file_format": null,
                         "checksum": "ecce292cfbab62abf3e911a98579e5f3",
@@ -454,7 +454,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 6167311,
+                        "byte_size": "6167311",
                         "type": null,
                         "file_format": null,
                         "checksum": "765119382d413e7051cedb1ad122d436",
@@ -474,7 +474,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 767641,
+                        "byte_size": "767641",
                         "type": null,
                         "file_format": null,
                         "checksum": "641b13968bf9401223d29e9f3350804c",
@@ -494,7 +494,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 305442,
+                        "byte_size": "305442",
                         "type": null,
                         "file_format": null,
                         "checksum": "ef18bf2c57161d8a48256f6f9fd3c441",
@@ -514,7 +514,7 @@
                            }
                         ],
                         "data_category": "Sequencing Reads",
-                        "byte_size": 20460524,
+                        "byte_size": "20460524",
                         "type": null,
                         "file_format": null,
                         "checksum": "31b766f0f934513062f5213dc9740b94",
@@ -534,7 +534,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 438051,
+                        "byte_size": "438051",
                         "type": null,
                         "file_format": null,
                         "checksum": "52a6cc7af0c366fd93240a49998289ff",
@@ -554,7 +554,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 5936384,
+                        "byte_size": "5936384",
                         "type": null,
                         "file_format": null,
                         "checksum": "6d07c80d2683a58c9e656ee165570f35",
@@ -574,7 +574,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 4001912,
+                        "byte_size": "4001912",
                         "type": null,
                         "file_format": null,
                         "checksum": "ec3a6c924c6f10268a0b3f5de77c2e4d",
@@ -594,7 +594,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 567540,
+                        "byte_size": "567540",
                         "type": null,
                         "file_format": null,
                         "checksum": "da2b85a5ffd55a7884557784684ab45d",
@@ -741,7 +741,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 248056,
+                        "byte_size": "248056",
                         "type": null,
                         "file_format": null,
                         "checksum": "e09e988c4969cf68fac8168fa622df9f",
@@ -761,7 +761,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 1611219,
+                        "byte_size": "1611219",
                         "type": null,
                         "file_format": null,
                         "checksum": "5eab6ca0fbbb67a3204e55266161dc55",
@@ -781,7 +781,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 7547974,
+                        "byte_size": "7547974",
                         "type": null,
                         "file_format": null,
                         "checksum": "2ab8ea64673f22be2fc3ae40ce3356eb",
@@ -801,7 +801,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 163494,
+                        "byte_size": "163494",
                         "type": null,
                         "file_format": null,
                         "checksum": "fabcd676c20684a8df20be63e49756a4",
@@ -821,7 +821,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 43887,
+                        "byte_size": "43887",
                         "type": null,
                         "file_format": null,
                         "checksum": "cc174a5c968bd1dfc464c22fb1244f2b",
@@ -841,7 +841,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 5005951,
+                        "byte_size": "5005951",
                         "type": null,
                         "file_format": null,
                         "checksum": "f1582d896290ad6c93f4ee97195fb5a9",
@@ -861,7 +861,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 115646,
+                        "byte_size": "115646",
                         "type": null,
                         "file_format": null,
                         "checksum": "0dd012d2a55bedca6921fad581fbbd27",
@@ -881,7 +881,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 342713,
+                        "byte_size": "342713",
                         "type": null,
                         "file_format": null,
                         "checksum": "35d6d356b65c552962845a5f963db28a",
@@ -901,7 +901,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 50325,
+                        "byte_size": "50325",
                         "type": null,
                         "file_format": null,
                         "checksum": "5dab4cb237c6bdf9f26938510d9f6442",
@@ -921,7 +921,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 53313,
+                        "byte_size": "53313",
                         "type": null,
                         "file_format": null,
                         "checksum": "dc22add6654662c05c787407c20b4578",
@@ -941,7 +941,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 6167311,
+                        "byte_size": "6167311",
                         "type": null,
                         "file_format": null,
                         "checksum": "765119382d413e7051cedb1ad122d436",
@@ -961,7 +961,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 767641,
+                        "byte_size": "767641",
                         "type": null,
                         "file_format": null,
                         "checksum": "641b13968bf9401223d29e9f3350804c",
@@ -981,7 +981,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 305442,
+                        "byte_size": "305442",
                         "type": null,
                         "file_format": null,
                         "checksum": "ef18bf2c57161d8a48256f6f9fd3c441",
@@ -1001,7 +1001,7 @@
                            }
                         ],
                         "data_category": "Sequencing Reads",
-                        "byte_size": 69157605164,
+                        "byte_size": "69157605164",
                         "type": null,
                         "file_format": null,
                         "checksum": "21f2140d9d3ef197422820a7e0bb8561",
@@ -1021,7 +1021,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 438051,
+                        "byte_size": "438051",
                         "type": null,
                         "file_format": null,
                         "checksum": "52a6cc7af0c366fd93240a49998289ff",
@@ -1041,7 +1041,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 5936384,
+                        "byte_size": "5936384",
                         "type": null,
                         "file_format": null,
                         "checksum": "6d07c80d2683a58c9e656ee165570f35",
@@ -1061,7 +1061,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 4001912,
+                        "byte_size": "4001912",
                         "type": null,
                         "file_format": null,
                         "checksum": "ec3a6c924c6f10268a0b3f5de77c2e4d",
@@ -1081,7 +1081,7 @@
                            }
                         ],
                         "data_category": "Simple Nucleotide Variation",
-                        "byte_size": 567540,
+                        "byte_size": "567540",
                         "type": null,
                         "file_format": null,
                         "checksum": "da2b85a5ffd55a7884557784684ab45d",
@@ -1199,7 +1199,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5195961,
+                        "byte_size": "5195961",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "c1e585b85d70314ddfb9fe930faf6a0f",
@@ -1219,7 +1219,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 213302411,
+                        "byte_size": "213302411",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "8e16ac2e87bffdea86d75e03a8cf0ffa",
@@ -1239,7 +1239,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7044458,
+                        "byte_size": "7044458",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "fc0008314a37ba989ed29b1c7f9d67e1",
@@ -1259,7 +1259,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 4247403,
+                        "byte_size": "4247403",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "5f8d183651df64850a85a64586aa2d9b",
@@ -1279,7 +1279,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7311308,
+                        "byte_size": "7311308",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "48c15a24e109b3f783b8a23766f25a94",
@@ -1299,7 +1299,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 814691558,
+                        "byte_size": "814691558",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "4a8c37b53a8dfd37df9f8a2457f08d8b",
@@ -1319,7 +1319,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 228828721,
+                        "byte_size": "228828721",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "3f1e328de8a3cbc58ea38fb7e6b4be97",
@@ -1339,7 +1339,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5574069,
+                        "byte_size": "5574069",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "0fed23511a9cfd34d95dfa610e194b3d",
@@ -1359,7 +1359,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 6920705,
+                        "byte_size": "6920705",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "59c5839127bf5e75de5099a6ef431a1b",
@@ -1379,7 +1379,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 2529641,
+                        "byte_size": "2529641",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "f5ce083f494f80aa6485cbfe65c3bf9d",
@@ -1399,7 +1399,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1885185505,
+                        "byte_size": "1885185505",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "60a11fff4769d03b7d7a7586b5b05828",
@@ -1419,7 +1419,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5306074,
+                        "byte_size": "5306074",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "0c51b70a9ec74aabb52dc59120dcb18b",
@@ -1439,7 +1439,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5725135,
+                        "byte_size": "5725135",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "cb5debd1ade07dfc256522f2332bb320",
@@ -1459,7 +1459,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 199273832,
+                        "byte_size": "199273832",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "e2e505e6dc18ec1eead1576d2289a09d",
@@ -1479,7 +1479,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 200810764,
+                        "byte_size": "200810764",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "be9c1aa166ae610d36d3ae4b622d5112",
@@ -1499,7 +1499,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1613377052,
+                        "byte_size": "1613377052",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "f08c5881ec4ee03927ae8bf8676faee5",
@@ -1519,7 +1519,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1638996500,
+                        "byte_size": "1638996500",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "de695ce745d100a3c1512e6a7232956c",
@@ -1539,7 +1539,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 3715668,
+                        "byte_size": "3715668",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "c2ca24934a561a4d2f41e1a9e9fc474a",
@@ -1559,7 +1559,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 2549143,
+                        "byte_size": "2549143",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "b64210b35e7be647ed2450f872784e92",
@@ -1579,7 +1579,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7424654,
+                        "byte_size": "7424654",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "61e93fdf0c6dc5e6b2db07971db2dac8",
@@ -1599,7 +1599,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7140369,
+                        "byte_size": "7140369",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "9ed307f94c00a23eacaf1901ad2f64fa",
@@ -1619,7 +1619,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 4067116,
+                        "byte_size": "4067116",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "ce117eb92b13ad29aef6fe713b22e8f5",
@@ -1639,7 +1639,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 175999741,
+                        "byte_size": "175999741",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "2191752cf2fe702cdf8dbb8c5861029a",
@@ -1659,7 +1659,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7198841,
+                        "byte_size": "7198841",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "9610217d33d3c5a8f911df6c2f588bf8",
@@ -1679,7 +1679,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 4297928,
+                        "byte_size": "4297928",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "0c9f2ee97655a7cb987723a1962d4fb5",
@@ -1699,7 +1699,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 176085816,
+                        "byte_size": "176085816",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "2b295045b937bb43fe7060056a8f63ed",
@@ -1719,7 +1719,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5832441,
+                        "byte_size": "5832441",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "c0e8076a7b38596e42d8bed774254f13",
@@ -1739,7 +1739,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 799130176,
+                        "byte_size": "799130176",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "6ba4efe4c4db8802093dce30ccb0ed18",
@@ -1759,7 +1759,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1871323562,
+                        "byte_size": "1871323562",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "f72175965f2b84063c459beca59d0ef9",
@@ -1779,7 +1779,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 3000707,
+                        "byte_size": "3000707",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "632ec29efeacf19df90f85b11d6d94ba",
@@ -1799,7 +1799,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7319787,
+                        "byte_size": "7319787",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "11292553428603ace5070e2e3688e7c4",
@@ -1819,7 +1819,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 6828210,
+                        "byte_size": "6828210",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "12b4d93685f15ff3eeb4d4b41126bab8",
@@ -1839,7 +1839,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7394076,
+                        "byte_size": "7394076",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "c9cb97aa6db42b5842bdb23743075b5a",
@@ -1859,7 +1859,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 2759858,
+                        "byte_size": "2759858",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "7d662588d0267596b721458f49463947",
@@ -1879,7 +1879,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 786578098,
+                        "byte_size": "786578098",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "d27a0f64f26b61bd4f0c6db7d9725108",
@@ -1899,7 +1899,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5730048,
+                        "byte_size": "5730048",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "7d5afe756762e38f35ab6e686808ffbf",
@@ -1919,7 +1919,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 2609677,
+                        "byte_size": "2609677",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "4412e34b943f37cca2b0dc756b5ffb89",
@@ -1939,7 +1939,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 805827984,
+                        "byte_size": "805827984",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "89aa559c7eaa027af4715e105b66cfba",
@@ -1959,7 +1959,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5495721,
+                        "byte_size": "5495721",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "84e960cf38e534333b7fb8c8cb9f3871",
@@ -1979,7 +1979,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 234831802,
+                        "byte_size": "234831802",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "8c461f4f7847beef3fe68c3295658038",
@@ -1999,7 +1999,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 6674206,
+                        "byte_size": "6674206",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "6182d0d5cc5cd9b1cb06d4b0434af0ad",
@@ -2019,7 +2019,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 216672618,
+                        "byte_size": "216672618",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "55f42cd2c22724f66e344e01f641a358",
@@ -2039,7 +2039,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 237060809,
+                        "byte_size": "237060809",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "f3195ce5dee1fcacf6ff22b3c93a7cc6",
@@ -2059,7 +2059,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1943913508,
+                        "byte_size": "1943913508",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "350cd6a1b03507bb8c7dd2a2eee46dfb",
@@ -2079,7 +2079,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 170576005,
+                        "byte_size": "170576005",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "364b0ec4f671fecc9ecfda69b29b4fba",
@@ -2099,7 +2099,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 201734231,
+                        "byte_size": "201734231",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "57db3a2d3e87002b37c636902df8faf1",
@@ -2119,7 +2119,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5673113,
+                        "byte_size": "5673113",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "5891384a7d76bda7d5665fd8e81369b4",
@@ -2139,7 +2139,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 185393241,
+                        "byte_size": "185393241",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "0b7f296fbe9b3467d81fd12569674e3b",
@@ -2159,7 +2159,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 172322204,
+                        "byte_size": "172322204",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "d1f24aca03d81f94cbf86b08cd60052b",
@@ -2179,7 +2179,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 4098101,
+                        "byte_size": "4098101",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "4859dd745af07b16e160e20e33b0ed0c",
@@ -2199,7 +2199,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5596877,
+                        "byte_size": "5596877",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "d4eaf9fa62baeb81b493c501a3997caa",
@@ -2219,7 +2219,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1765297003,
+                        "byte_size": "1765297003",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "d884bae286c11218563937805cbcf797",
@@ -2239,7 +2239,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 2281937,
+                        "byte_size": "2281937",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "f0e12b5613393ccffb0cf2a98e783c06",
@@ -2259,7 +2259,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1931087946,
+                        "byte_size": "1931087946",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "e6805eb6b4e9044555c9da49706c5d8f",
@@ -2279,7 +2279,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 215806197,
+                        "byte_size": "215806197",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "3fe18a3b713f0b9b66382d72622d8b26",
@@ -2299,7 +2299,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 858236566,
+                        "byte_size": "858236566",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "89e9982cfe3eb9470a0c5207193db91c",
@@ -2319,7 +2319,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1882139615,
+                        "byte_size": "1882139615",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "69ffdc05ddf13f194f41b357ab21f87e",
@@ -2339,7 +2339,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 4704396,
+                        "byte_size": "4704396",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "f40920d98dd41b42e300ab978427aaf8",
@@ -2359,7 +2359,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1734024217,
+                        "byte_size": "1734024217",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "1eb1f857ad4b129ec7f7251c54eb8429",
@@ -2379,7 +2379,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5146731,
+                        "byte_size": "5146731",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "ede86df5c36fc74fdc89ede439947696",
@@ -2399,7 +2399,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5273413,
+                        "byte_size": "5273413",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "286cd9812c003b3879ae70b5eed2875b",
@@ -2419,7 +2419,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 798831436,
+                        "byte_size": "798831436",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "726bb127d87d20fda5206adbb6036df8",
@@ -2439,7 +2439,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1626928106,
+                        "byte_size": "1626928106",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "6ab4dbb0c864bd62f88ee294e47fe09d",
@@ -2459,7 +2459,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 202546944,
+                        "byte_size": "202546944",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "6314db765dc6636434b25d08d8e7177c",
@@ -2479,7 +2479,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5519566,
+                        "byte_size": "5519566",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "1bf2e4394b6911eee64515ea74079405",
@@ -2499,7 +2499,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1756595302,
+                        "byte_size": "1756595302",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "7bff621f39cfcbd29c305f9126651a80",
@@ -2519,7 +2519,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1633576871,
+                        "byte_size": "1633576871",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "7f82bf720815e1894eada4986e2c7e95",
@@ -2539,7 +2539,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 230792790,
+                        "byte_size": "230792790",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "93657ee56ba5f66116ac0eeb777fd347",
@@ -2559,7 +2559,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 230013118,
+                        "byte_size": "230013118",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "1a0f022976c66aae51e0d3eb7c2da581",
@@ -2579,7 +2579,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 169062751,
+                        "byte_size": "169062751",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "dcbeab35fea4e6ebb940dc6dfc1d3ae8",
@@ -2599,7 +2599,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 6970617,
+                        "byte_size": "6970617",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "325aff734b2afd059c199df88986ce6d",
@@ -2619,7 +2619,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7209659,
+                        "byte_size": "7209659",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "d29b3f4b07d9b40dc9b85ef5b3559938",
@@ -2658,7 +2658,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 793619198,
+                        "byte_size": "793619198",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "775c63f5560e10e30b319bec74a8c23b",
@@ -2678,7 +2678,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 898729624,
+                        "byte_size": "898729624",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "c70275a4634bb5c63557585600bdecb8",
@@ -2698,7 +2698,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 8025509,
+                        "byte_size": "8025509",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "9aa20115f7ce6d1de1cf18738bb5096a",
@@ -2718,7 +2718,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1770001590,
+                        "byte_size": "1770001590",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "10e89c22c721d8fb3aa5bb0c72c1200b",
@@ -2738,7 +2738,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 815359890,
+                        "byte_size": "815359890",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "3340b297f69fa42ec8cf040aa1241c17",
@@ -2758,7 +2758,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5102118,
+                        "byte_size": "5102118",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "6aaac286cd8998b584beb9f2b1ebb240",
@@ -2778,7 +2778,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 2434774,
+                        "byte_size": "2434774",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "410d4a201dac58cbfb40d8b1d4f0fad3",
@@ -2798,7 +2798,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 6013332,
+                        "byte_size": "6013332",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "89a9f28daa4066226ccc3b53952f53e7",
@@ -2818,7 +2818,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 2385014,
+                        "byte_size": "2385014",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "4782b506f98a53969c01c850ebf0245d",
@@ -2838,7 +2838,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 212959925,
+                        "byte_size": "212959925",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "738459c88ef36a856b20ae8cebd6a46f",
@@ -2858,7 +2858,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5828812,
+                        "byte_size": "5828812",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "9417890237e4ad537f99758cd5d24634",
@@ -2878,7 +2878,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 160459275,
+                        "byte_size": "160459275",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "eca8428b3f31edbde13f4d578312b72c",
@@ -2898,7 +2898,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 4753094,
+                        "byte_size": "4753094",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "8838ffa615d65e98460d5d216fc3a1fb",
@@ -2918,7 +2918,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 164258054,
+                        "byte_size": "164258054",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "3058ac8f5a6d3fb77acb81a3cc249d21",
@@ -2938,7 +2938,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5738281,
+                        "byte_size": "5738281",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "10fa93c1364b3a4cbd4d59e53cc02ea5",
@@ -2958,7 +2958,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 917401705,
+                        "byte_size": "917401705",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "88cc3cc577acaa04b91b44c9c6c08358",
@@ -2978,7 +2978,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1675806496,
+                        "byte_size": "1675806496",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "c5fec55840ce4ab0723466120294cc4f",
@@ -2998,7 +2998,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 206027184,
+                        "byte_size": "206027184",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "156eb01edc1622046f71876d8369d4b6",
@@ -3018,7 +3018,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7577002,
+                        "byte_size": "7577002",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "c6a97eb4619acca5a0b356da69947230",
@@ -3038,7 +3038,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5034214,
+                        "byte_size": "5034214",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "2f8e87b42639d6cb16bfc190b0acfc11",
@@ -3058,7 +3058,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5661793,
+                        "byte_size": "5661793",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "f2cea2f725f418fc238faae9ba1770cb",
@@ -3078,7 +3078,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1766931360,
+                        "byte_size": "1766931360",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "6ab426f2302bb1b30419c0383db6ebca",
@@ -3098,7 +3098,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 851443784,
+                        "byte_size": "851443784",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "94f102e8530a9214544c91d19f8d31a1",
@@ -3118,7 +3118,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7730272,
+                        "byte_size": "7730272",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "51bbe735042c6a3a1a78e1c943e51489",
@@ -3138,7 +3138,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1854084087,
+                        "byte_size": "1854084087",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "853956e3d7ce8b07b07050eed9a93d14",
@@ -3158,7 +3158,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 173267282,
+                        "byte_size": "173267282",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "e21759b1ae6675eab00e4f0e16d1294e",
@@ -3178,7 +3178,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 3300039,
+                        "byte_size": "3300039",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "ff8462f92174d402924ae69dd2cef91e",
@@ -3198,7 +3198,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 176936660,
+                        "byte_size": "176936660",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "82ef869a7f8292ca6cb9850ef923bbed",
@@ -3218,7 +3218,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5086344,
+                        "byte_size": "5086344",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "fb0657d72152904743eccc99405d99d8",
@@ -3238,7 +3238,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 2414774,
+                        "byte_size": "2414774",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "7e32a5f43ecb38b4ff20e564a8b212ff",
@@ -3258,7 +3258,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 815535910,
+                        "byte_size": "815535910",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "d37dc0e011383aaf432388fe5004907f",
@@ -3278,7 +3278,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5731188,
+                        "byte_size": "5731188",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "475d8247517804685918ce742df08815",
@@ -3298,7 +3298,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 216466554,
+                        "byte_size": "216466554",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "4e6824e9af5c2afba907626efde222f5",
@@ -3318,7 +3318,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1689911126,
+                        "byte_size": "1689911126",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "1dda767bf355b1ba3b410bf02eb0d41f",
@@ -3338,7 +3338,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5931510,
+                        "byte_size": "5931510",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "a72dae5e2761d3392cbffbb819d19b1d",
@@ -3358,7 +3358,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 216894488,
+                        "byte_size": "216894488",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "cb2d847edf179558e97c0872fb401156",
@@ -3378,7 +3378,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 221406612,
+                        "byte_size": "221406612",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "5e25ae929f4da8222c767384becbb0fa",
@@ -3398,7 +3398,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 855815216,
+                        "byte_size": "855815216",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "a750ef3baae1baebf8a2c8a279ae022d",
@@ -3418,7 +3418,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 206301252,
+                        "byte_size": "206301252",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "805538bfb4649134b69ecbbac6ec00c8",
@@ -3438,7 +3438,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7591250,
+                        "byte_size": "7591250",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "9fe50a0c2cb29e667cb1071197d5676a",
@@ -3458,7 +3458,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 6233000,
+                        "byte_size": "6233000",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "b63600bdf99bf40dbee03c18914bd15d",
@@ -3478,7 +3478,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 4786748,
+                        "byte_size": "4786748",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "3230e987704ec7621b7da5bfb36674de",
@@ -3498,7 +3498,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 209657095,
+                        "byte_size": "209657095",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "d57f9513da9922f38359998c60249162",
@@ -3518,7 +3518,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7725703,
+                        "byte_size": "7725703",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "7b7ae2fc5a091b51462a79f678097493",
@@ -3538,7 +3538,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 161824691,
+                        "byte_size": "161824691",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "fe1f6ae3b35df15ed9fc81a4f07ee467",
@@ -3558,7 +3558,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 4738854,
+                        "byte_size": "4738854",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "a68197c223c9f0a683e4343367394fdd",
@@ -3578,7 +3578,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 160086244,
+                        "byte_size": "160086244",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "38b92b50b5e8f5a5a5f09d7bf9330153",
@@ -3598,7 +3598,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 226234825,
+                        "byte_size": "226234825",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "ccaac7a57a581f67b0f7d0de27d3eb51",
@@ -3618,7 +3618,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5501461,
+                        "byte_size": "5501461",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "981db206bee4c30693c091fb47b5c80a",
@@ -3638,7 +3638,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 872694512,
+                        "byte_size": "872694512",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "c603dc4f3416045731db5e96f7473c44",
@@ -3658,7 +3658,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 4715198,
+                        "byte_size": "4715198",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "7907745a607824876bfe922be43993d9",
@@ -3678,7 +3678,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1765689556,
+                        "byte_size": "1765689556",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "b965df02fd86a58bc71801f56c4a20d5",
@@ -3698,7 +3698,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5914819,
+                        "byte_size": "5914819",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "95a8e25f5a35461fdd0776ecba6b16b4",
@@ -3718,7 +3718,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 2994682,
+                        "byte_size": "2994682",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "9430cdb0757533f8f16ba3c0869540de",
@@ -3738,7 +3738,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 2809879,
+                        "byte_size": "2809879",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "9c0cd1f80e13df686ab818a5783a6ac1",
@@ -3758,7 +3758,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 4830473,
+                        "byte_size": "4830473",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "bafac0f8849758e8bad439e21e46ad64",
@@ -3778,7 +3778,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 248388114,
+                        "byte_size": "248388114",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "bf376b1721b7ef79b1002bd114bdabed",
@@ -3798,7 +3798,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7172098,
+                        "byte_size": "7172098",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "580ec66c883a775571b3eb62c1df0fd9",
@@ -3818,7 +3818,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 3170391,
+                        "byte_size": "3170391",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "971b844674b5efb73da765ea388a8d6b",
@@ -3838,7 +3838,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 177930645,
+                        "byte_size": "177930645",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "a13d3bba90253a049aa644a68f4ea524",
@@ -3858,7 +3858,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7377780,
+                        "byte_size": "7377780",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "abd51f7ea67f37dcdd62b1ed6fd2d286",
@@ -3878,7 +3878,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 217212859,
+                        "byte_size": "217212859",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "b147733eff4ece99054ef46fef27f75a",
@@ -3898,7 +3898,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7488130,
+                        "byte_size": "7488130",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "ce39029dcf8e454b01c056610dbd8152",
@@ -3918,7 +3918,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 896208640,
+                        "byte_size": "896208640",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "5e263a3e42c788ba7778a47b5837e4ae",
@@ -3938,7 +3938,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 2323206,
+                        "byte_size": "2323206",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "21e1cf7fc17dbc53c5b3dfb14a6d3121",
@@ -3958,7 +3958,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 3271384,
+                        "byte_size": "3271384",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "3f51dfed56f19d42e536bd6fd40ae3d0",
@@ -3978,7 +3978,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 175937674,
+                        "byte_size": "175937674",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "fd6f21eb95c7de501199b93bf9b699fd",
@@ -3998,7 +3998,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5082115,
+                        "byte_size": "5082115",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "dc5dfc6f27d894a8826f1a1ca4906cdf",
@@ -4018,7 +4018,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1733606276,
+                        "byte_size": "1733606276",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "3fdecd345c95c60d6aff6d1790dcbbd7",
@@ -4038,7 +4038,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 2045493648,
+                        "byte_size": "2045493648",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "e3e298f2ddf04f61a866f06924a40086",
@@ -4058,7 +4058,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 2368128,
+                        "byte_size": "2368128",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "e603fec18a5c40748a5ca289954c4904",
@@ -4078,7 +4078,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 4588835,
+                        "byte_size": "4588835",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "1146265fcc1376e7076a3bdcfa283ad4",
@@ -4098,7 +4098,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7904892,
+                        "byte_size": "7904892",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "588dfd5be32fe26d062b045d5d2ae2dd",
@@ -4118,7 +4118,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1672522583,
+                        "byte_size": "1672522583",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "9aeef99ecff5d9db6b95f68b84c4cf6b",
@@ -4138,7 +4138,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 162569453,
+                        "byte_size": "162569453",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "3dd35f13250983ae5ebea887f7712463",
@@ -4158,7 +4158,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 185219849,
+                        "byte_size": "185219849",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "796912f0c217f7c62951a8c6ebcba646",
@@ -4178,7 +4178,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 217598995,
+                        "byte_size": "217598995",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "88dd488b6956cce153d1ef82e6c72793",
@@ -4198,7 +4198,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 4759004,
+                        "byte_size": "4759004",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "b5d73dbb30a07b6258c2ec7b6215b752",
@@ -4218,7 +4218,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5853295,
+                        "byte_size": "5853295",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "660d8beeab85725b929595c74aee69f5",
@@ -4238,7 +4238,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 863778432,
+                        "byte_size": "863778432",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "9b44eaeb334e9218f8792273a1750919",
@@ -4258,7 +4258,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5881324,
+                        "byte_size": "5881324",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "c345249cb4d442bfa3a818bc39840f58",
@@ -4278,7 +4278,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1809012149,
+                        "byte_size": "1809012149",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "db63801481219c34d8b31d543f6f1377",
@@ -4298,7 +4298,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 4870038,
+                        "byte_size": "4870038",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "cdbb376bc89ae6dd3800df4b6db63f74",
@@ -4318,7 +4318,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7709582,
+                        "byte_size": "7709582",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "99267ba1f499eca071c363be1f35d22b",
@@ -4338,7 +4338,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 5719190,
+                        "byte_size": "5719190",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "ddfa96324a1231e807c9a35477ece40d",
@@ -4358,7 +4358,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 177562667,
+                        "byte_size": "177562667",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "ddf42adbfd8eeeb92c4acaba60222d5a",
@@ -4378,7 +4378,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1704603050,
+                        "byte_size": "1704603050",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "89b4b35b841c5c1202303c5218d94791",
@@ -4398,7 +4398,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7779691,
+                        "byte_size": "7779691",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "bf1889149a45b609e94b4c70e60326c0",
@@ -4418,7 +4418,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 7633586,
+                        "byte_size": "7633586",
                         "type": null,
                         "file_format": "mzIdentML",
                         "checksum": "b0a122f5fcf894bc5eab79bfc1b9cd26",
@@ -4438,7 +4438,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 207488107,
+                        "byte_size": "207488107",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "1626736ac46b5d91480fe6160b24f2a8",
@@ -4458,7 +4458,7 @@
                            }
                         ],
                         "data_category": "Processed Mass Spectra",
-                        "byte_size": 162518323,
+                        "byte_size": "162518323",
                         "type": null,
                         "file_format": "mzML",
                         "checksum": "16b6696d111d259eff591e7a7ea38ec7",
@@ -4478,7 +4478,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 1773260093,
+                        "byte_size": "1773260093",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "6422e8c855bacfdf80154503ce276fe1",
@@ -4498,7 +4498,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 923754997,
+                        "byte_size": "923754997",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "a6773785babdf0185b665d0067f76492",
@@ -4518,7 +4518,7 @@
                            }
                         ],
                         "data_category": "Raw Mass Spectra",
-                        "byte_size": 936791109,
+                        "byte_size": "936791109",
                         "type": null,
                         "file_format": "vendor-specific",
                         "checksum": "67ea86f630b368d6d475bb8a9e2ba7f4",
@@ -4538,7 +4538,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 2967257,
+                        "byte_size": "2967257",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "ddb9975b0b00e6f10fe5bce22d0decd2",
@@ -4558,7 +4558,7 @@
                            }
                         ],
                         "data_category": "Peptide Spectral Matches",
-                        "byte_size": 2573922,
+                        "byte_size": "2573922",
                         "type": null,
                         "file_format": "tsv",
                         "checksum": "eba1012863396408a3ced48380841b45",
